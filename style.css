@@ -2,19 +2,18 @@
     font-family: "Times New Roman", sans-serif;
     font-size: 20px;
 }
+
 h1, h2{
     font-family: Verdana, sans-serif;
 }
 
-.list{
-    font-size: 15px;
-    color: red;
+h2{
+    margin-bottom: -10px;
 }
-.ingredients{
 
-}
-.coook-steps{
-
+li{
+    font-size:large;
+    font-style: italic;
 }
 
 img{
