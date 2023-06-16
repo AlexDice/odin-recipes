@@ -1,0 +1,23 @@
+* {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 20px;
+}
+h1, h2{
+    font-family: Verdana, sans-serif;
+}
+
+.list{
+    font-size: 15px;
+    color: red;
+}
+.ingredients{
+
+}
+.coook-steps{
+
+}
+
+img{
+    height: auto;
+    width: auto;
+}
