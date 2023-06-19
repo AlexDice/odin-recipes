@@ -7,6 +7,11 @@ h1, h2{
     font-family: Verdana, sans-serif;
 }
 
+.home-page-title{
+    text-align: center;
+    font-size: 40px;
+}
+
 h2{
     margin-bottom: -10px;
 }
@@ -19,4 +24,24 @@ li{
 img{
     height: auto;
     width: auto;
+}
+.open-menu{
+    text-align: center;
+    font-style: normal;
+    padding:20px;
+    margin:0px 20%;
+    border-radius: 10px;
+    background-color: darkgray;
+}
+
+.open-menu li{
+    display:inline;
+    margin:0px 7px;
+}
+.open-menu a:link{
+    text-decoration: none;
+}
+
+.open-menu ul{
+    padding:0px;
 }
